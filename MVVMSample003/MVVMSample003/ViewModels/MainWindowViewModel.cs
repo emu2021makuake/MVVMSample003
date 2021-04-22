@@ -24,7 +24,7 @@ namespace MVVMSample003.ViewModels
             set => SetProperty(ref _receiveMessage, value);
         }
 
-        public RelayCommand SendCommand { get; }
+        public IRelayCommand SendCommand { get; }
 
         public MainWindowViewModel()
         {
