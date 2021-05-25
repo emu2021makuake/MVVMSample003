@@ -1,5 +1,5 @@
 # MVVMSample003
-Microsoft.Toolkit.Mvvm WPF Sample 3 - messenger
+MVVM Toolkit (`Microsoft.Toolkit.Mvvm`) WPF Sample 3 - messenger
 
 Sample of sending a string using WeakReferenceMessenger
 
