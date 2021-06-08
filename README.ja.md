@@ -1,5 +1,5 @@
 # MVVMSample003
-`MVVM Toolkit` (`Microsoft.Toolkit.Mvvm`) WPF Sample 3 - messenger
+`MVVM Toolkit` (`Microsoft.Toolkit.Mvvm`) WPF Sample 3 - messenger (1)
 
 WeakReferenceMessengerを使用して文字列を送信するサンプル。
 
